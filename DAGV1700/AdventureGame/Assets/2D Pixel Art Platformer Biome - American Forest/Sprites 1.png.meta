@@ -1,12 +1,5 @@
 fileFormatVersion: 2
-guid: 5fe5454ec8605de43809133b020d1b69
-AssetOrigin:
-  serializedVersion: 1
-  productId: 255694
-  packageName: 2D Pixel Art Platformer | Biome - American Forest
-  packageVersion: 1.0
-  assetPath: Assets/2D Pixel Art Platformer Biome - American Forest/Sprites.png
-  uploadId: 589276
+guid: eab166aac5de64e4f9f437e860e5b623
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -44,9 +37,9 @@ TextureImporter:
     filterMode: 0
     aniso: 1
     mipBias: 0
-    wrapU: 0
-    wrapV: 0
-    wrapW: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
