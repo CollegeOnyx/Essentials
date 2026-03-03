@@ -1,0 +1,2743 @@
+fileFormatVersion: 2
+guid: 4be70307ad4d73c44a4442be2ad25eb3
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3845526421167853053
+    second: sprite_sheetDance_0
+  - first:
+      213: 2249626410489707183
+    second: sprite_sheetDance_1
+  - first:
+      213: -4475863958900181438
+    second: sprite_sheetDance_2
+  - first:
+      213: -6077950529466920587
+    second: sprite_sheetDance_3
+  - first:
+      213: -4828984400413331848
+    second: sprite_sheetDance_4
+  - first:
+      213: -8081177504449190892
+    second: sprite_sheetDance_5
+  - first:
+      213: -7375383286807313
+    second: sprite_sheetDance_6
+  - first:
+      213: -2690315829568186669
+    second: sprite_sheetDance_7
+  - first:
+      213: -8250807308463502991
+    second: sprite_sheetDance_8
+  - first:
+      213: -7595915216921261077
+    second: sprite_sheetDance_9
+  - first:
+      213: -7391827886283006980
+    second: sprite_sheetDance_10
+  - first:
+      213: -3666157673393504591
+    second: sprite_sheetDance_11
+  - first:
+      213: 6710373363091177922
+    second: sprite_sheetDance_12
+  - first:
+      213: -6113941638788187671
+    second: sprite_sheetDance_13
+  - first:
+      213: 8787825820677985134
+    second: sprite_sheetDance_14
+  - first:
+      213: -4204556871127742889
+    second: sprite_sheetDance_15
+  - first:
+      213: -1025142695966946942
+    second: sprite_sheetDance_16
+  - first:
+      213: 3775427757771559000
+    second: sprite_sheetDance_17
+  - first:
+      213: 1277465550173841108
+    second: sprite_sheetDance_18
+  - first:
+      213: 8393303710515672167
+    second: sprite_sheetDance_19
+  - first:
+      213: 9032838230081511804
+    second: sprite_sheetDance_20
+  - first:
+      213: -1670634479920800325
+    second: sprite_sheetDance_21
+  - first:
+      213: -8904131702065199842
+    second: sprite_sheetDance_22
+  - first:
+      213: -5396052509385144012
+    second: sprite_sheetDance_23
+  - first:
+      213: 8490034788919845614
+    second: sprite_sheetDance_24
+  - first:
+      213: -8670917529129935625
+    second: sprite_sheetDance_25
+  - first:
+      213: 1723755225616675587
+    second: sprite_sheetDance_26
+  - first:
+      213: -5814158680822526908
+    second: sprite_sheetDance_27
+  - first:
+      213: -1849982609986634012
+    second: sprite_sheetDance_28
+  - first:
+      213: 3665425770200233004
+    second: sprite_sheetDance_29
+  - first:
+      213: 2204799903440262560
+    second: sprite_sheetDance_30
+  - first:
+      213: 5471669840336200897
+    second: sprite_sheetDance_31
+  - first:
+      213: 4037207485762658821
+    second: sprite_sheetDance_32
+  - first:
+      213: -7878447754436207366
+    second: sprite_sheetDance_33
+  - first:
+      213: 1366175585133937807
+    second: sprite_sheetDance_34
+  - first:
+      213: -111197550387155527
+    second: sprite_sheetDance_35
+  - first:
+      213: 6718750073568595705
+    second: sprite_sheetDance_36
+  - first:
+      213: -3356308536001218390
+    second: sprite_sheetDance_37
+  - first:
+      213: 1189896740795279601
+    second: sprite_sheetDance_38
+  - first:
+      213: 7729619426023078797
+    second: sprite_sheetDance_39
+  - first:
+      213: -5840685468971380962
+    second: sprite_sheetDance_40
+  - first:
+      213: 4424899174428218902
+    second: sprite_sheetDance_41
+  - first:
+      213: 4890847155950023344
+    second: sprite_sheetDance_42
+  - first:
+      213: 4036155985302900213
+    second: sprite_sheetDance_43
+  - first:
+      213: -8726171683149571750
+    second: sprite_sheetDance_44
+  - first:
+      213: -6320797989587029618
+    second: sprite_sheetDance_45
+  - first:
+      213: 1182036799796694755
+    second: sprite_sheetDance_46
+  - first:
+      213: 6015412556290155586
+    second: sprite_sheetDance_47
+  - first:
+      213: 8466509694823465530
+    second: sprite_sheetDance_48
+  - first:
+      213: -353422941308035667
+    second: sprite_sheetDance_49
+  - first:
+      213: -8012827474974139994
+    second: sprite_sheetDance_50
+  - first:
+      213: -5941286531219054332
+    second: sprite_sheetDance_51
+  - first:
+      213: 6113363024246747394
+    second: sprite_sheetDance_52
+  - first:
+      213: 4419582258901640810
+    second: sprite_sheetDance_53
+  - first:
+      213: 397762779692514227
+    second: sprite_sheetDance_54
+  - first:
+      213: 8125524931937289967
+    second: sprite_sheetDance_55
+  - first:
+      213: 1144267007697921923
+    second: sprite_sheetDance_56
+  - first:
+      213: -6625529476208563979
+    second: sprite_sheetDance_57
+  - first:
+      213: -8117096916426315412
+    second: sprite_sheetDance_58
+  - first:
+      213: 6781229192654322993
+    second: sprite_sheetDance_59
+  - first:
+      213: -7464023970553622944
+    second: sprite_sheetDance_60
+  - first:
+      213: 96273510490085328
+    second: sprite_sheetDance_61
+  - first:
+      213: -475878543425753484
+    second: sprite_sheetDance_62
+  - first:
+      213: -977856421364244083
+    second: sprite_sheetDance_63
+  - first:
+      213: -3801695062080369625
+    second: sprite_sheetDance_64
+  - first:
+      213: -5523486975194504251
+    second: sprite_sheetDance_65
+  - first:
+      213: -8442788937167312812
+    second: sprite_sheetDance_66
+  - first:
+      213: -5283205031353811353
+    second: sprite_sheetDance_67
+  - first:
+      213: 536298275102075758
+    second: sprite_sheetDance_68
+  - first:
+      213: -6085967444251243133
+    second: sprite_sheetDance_69
+  - first:
+      213: -1649747053676775060
+    second: sprite_sheetDance_70
+  - first:
+      213: 8369044556326260977
+    second: sprite_sheetDance_71
+  - first:
+      213: -2610558524861824900
+    second: sprite_sheetDance_72
+  - first:
+      213: 3172110593368403504
+    second: sprite_sheetDance_73
+  - first:
+      213: -2819199081405256859
+    second: sprite_sheetDance_74
+  - first:
+      213: 3243331015779130025
+    second: sprite_sheetDance_75
+  - first:
+      213: -1777351043333608227
+    second: sprite_sheetDance_76
+  - first:
+      213: 3829285292460661730
+    second: sprite_sheetDance_77
+  - first:
+      213: 3659976495321670859
+    second: sprite_sheetDance_78
+  - first:
+      213: -1372157667551520711
+    second: sprite_sheetDance_79
+  - first:
+      213: -3985077667877296711
+    second: sprite_sheetDance_80
+  - first:
+      213: -8591218318555025280
+    second: sprite_sheetDance_81
+  - first:
+      213: 383782968179010375
+    second: sprite_sheetDance_82
+  - first:
+      213: -3116692829164439860
+    second: sprite_sheetDance_83
+  - first:
+      213: -6026608950571211153
+    second: sprite_sheetDance_84
+  - first:
+      213: 6501014303125249406
+    second: sprite_sheetDance_85
+  - first:
+      213: -3937296388741571649
+    second: sprite_sheetDance_86
+  - first:
+      213: -2381914428581421139
+    second: sprite_sheetDance_87
+  - first:
+      213: 980739529291579098
+    second: sprite_sheetDance_88
+  - first:
+      213: 5973166230233455958
+    second: sprite_sheetDance_89
+  - first:
+      213: 4321936220003941956
+    second: sprite_sheetDance_90
+  - first:
+      213: 3125805156505823920
+    second: sprite_sheetDance_91
+  - first:
+      213: 3761692925509384607
+    second: sprite_sheetDance_92
+  - first:
+      213: 2336514814396390974
+    second: sprite_sheetDance_93
+  - first:
+      213: 8503959806685454654
+    second: sprite_sheetDance_94
+  - first:
+      213: -4608419658477000764
+    second: sprite_sheetDance_95
+  - first:
+      213: -4677119118196957933
+    second: sprite_sheetDance_96
+  - first:
+      213: 6424984875868574592
+    second: sprite_sheetDance_97
+  - first:
+      213: 7705837501098052649
+    second: sprite_sheetDance_98
+  - first:
+      213: -6815989567704254318
+    second: sprite_sheetDance_99
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: sprite_sheetDance_0
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 5523
+        width: 106
+        height: 271
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30239eb2812f1aac0800000000000000
+      internalID: -3845526421167853053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_sheetDance_1
+      rect:
+        serializedVersion: 2
+        x: 862
+        y: 5523
+        width: 106
+        height: 271
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: faa73922d47483f10800000000000000
+      internalID: 2249626410489707183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_sheetDance_2
+      rect:
+        serializedVersion: 2
+        x: 1465
+        y: 5523
+        width: 107
+        height: 274
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 246f7ca817982e1c0800000000000000
+      internalID: -4475863958900181438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_sheetDance_3
+      rect:
+        serializedVersion: 2
+        x: 2067
+        y: 5523
+        width: 107
+        height: 274
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5711ab02238c6aba0800000000000000
+      internalID: -6077950529466920587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_sheetDance_4
+      rect:
+        serializedVersion: 2
+        x: 2670
+        y: 5523
+        width: 107
+        height: 276
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87ee57bd5400cfcb0800000000000000
+      internalID: -4828984400413331848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_sheetDance_5
+      rect:
+        serializedVersion: 2
+        x: 3272
+        y: 5523
+        width: 107
+        height: 276
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 414ad6820e3e9df80800000000000000
+      internalID: -8081177504449190892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_sheetDance_6
+      rect:
+        serializedVersion: 2
+        x: 3874
+        y: 5523
+        width: 106
+        height: 277
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe48b13c02cc5eff0800000000000000
+      internalID: -7375383286807313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_sheetDance_7
+      rect:
+        serializedVersion: 2
+        x: 4476
+        y: 5523
+        width: 106
+        height: 277
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d65af4c1041aaad0800000000000000
+      internalID: -2690315829568186669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_sheetDance_8
+      rect:
+        serializedVersion: 2
+        x: 5079
+        y: 5523
+        width: 108
+        height: 276
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17906d4b77e3f7d80800000000000000
+      internalID: -8250807308463502991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_sheetDance_9
+      rect:
+        serializedVersion: 2
+        x: 5681
+        y: 5523
+        width: 108
+        height: 276
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: beb8c67ea53e59690800000000000000
+      internalID: -7595915216921261077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_sheetDance_10
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 4920
+        width: 112
+        height: 276
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfb564573b3fa6990800000000000000
+      internalID: -7391827886283006980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_sheetDance_11
+      rect:
+        serializedVersion: 2
+        x: 866
+        y: 4920
+        width: 112
+        height: 276
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bebeca25013f1dc0800000000000000
+      internalID: -3666157673393504591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_sheetDance_12
+      rect:
+        serializedVersion: 2
+        x: 1469
+        y: 4920
+        width: 114
+        height: 274
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c10b494509002d50800000000000000
+      internalID: 6710373363091177922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_sheetDance_13
+      rect:
+        serializedVersion: 2
+        x: 2071
+        y: 4920
+        width: 114
+        height: 274
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e97f8af87ae62ba0800000000000000
+      internalID: -6113941638788187671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_sheetDance_14
+      rect:
+        serializedVersion: 2
+        x: 2673
+        y: 4919
+        width: 117
+        height: 273
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6354852601a4f970800000000000000
+      internalID: 8787825820677985134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_sheetDance_15
+      rect:
+        serializedVersion: 2
+        x: 3275
+        y: 4919
+        width: 117
+        height: 273
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 756c08a6dc966a5c0800000000000000
+      internalID: -4204556871127742889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_sheetDance_16
+      rect:
+        serializedVersion: 2
+        x: 3877
+        y: 4918
+        width: 118
+        height: 273
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 289cdc24626f5c1f0800000000000000
+      internalID: -1025142695966946942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_sheetDance_17
+      rect:
+        serializedVersion: 2
+        x: 4479
+        y: 4918
+        width: 118
+        height: 273
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8509f19ea83056430800000000000000
+      internalID: 3775427757771559000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_sheetDance_18
+      rect:
+        serializedVersion: 2
+        x: 5081
+        y: 4918
+        width: 119
+        height: 272
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d629ea46287ab110800000000000000
+      internalID: 1277465550173841108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_sheetDance_19
+      rect:
+        serializedVersion: 2
+        x: 5683
+        y: 4918
+        width: 119
+        height: 272
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 764314d41410b7470800000000000000
+      internalID: 8393303710515672167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_sheetDance_20
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 4316
+        width: 117
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c71a39123861b5d70800000000000000
+      internalID: 9032838230081511804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_sheetDance_21
+      rect:
+        serializedVersion: 2
+        x: 867
+        y: 4316
+        width: 117
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbd1dcabac6b0d8e0800000000000000
+      internalID: -1670634479920800325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_sheetDance_22
+      rect:
+        serializedVersion: 2
+        x: 1470
+        y: 4316
+        width: 114
+        height: 268
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e150c11a46b2e6480800000000000000
+      internalID: -8904131702065199842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_sheetDance_23
+      rect:
+        serializedVersion: 2
+        x: 2072
+        y: 4316
+        width: 114
+        height: 268
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4394ebc05de5d15b0800000000000000
+      internalID: -5396052509385144012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_sheetDance_24
+      rect:
+        serializedVersion: 2
+        x: 2673
+        y: 4316
+        width: 113
+        height: 267
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee2a64c88a9a2d570800000000000000
+      internalID: 8490034788919845614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_sheetDance_25
+      rect:
+        serializedVersion: 2
+        x: 3275
+        y: 4316
+        width: 113
+        height: 267
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fc908f9276baa780800000000000000
+      internalID: -8670917529129935625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_sheetDance_26
+      rect:
+        serializedVersion: 2
+        x: 3877
+        y: 4316
+        width: 112
+        height: 268
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 303fa9eae320ce710800000000000000
+      internalID: 1723755225616675587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_sheetDance_27
+      rect:
+        serializedVersion: 2
+        x: 4479
+        y: 4316
+        width: 112
+        height: 268
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44cc1d90c75ff4fa0800000000000000
+      internalID: -5814158680822526908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_sheetDance_28
+      rect:
+        serializedVersion: 2
+        x: 5080
+        y: 4316
+        width: 112
+        height: 268
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4eeb81b2e9a8356e0800000000000000
+      internalID: -1849982609986634012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_sheetDance_29
+      rect:
+        serializedVersion: 2
+        x: 5682
+        y: 4316
+        width: 112
+        height: 268
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c24f85751553ed230800000000000000
+      internalID: 3665425770200233004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_sheetDance_30
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 3714
+        width: 114
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a55f55a4d5099e10800000000000000
+      internalID: 2204799903440262560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_sheetDance_31
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 3714
+        width: 114
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c42579cab64feb40800000000000000
+      internalID: 5471669840336200897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_sheetDance_32
+      rect:
+        serializedVersion: 2
+        x: 1463
+        y: 3714
+        width: 115
+        height: 273
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5026e6971da070830800000000000000
+      internalID: 4037207485762658821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_sheetDance_33
+      rect:
+        serializedVersion: 2
+        x: 2065
+        y: 3714
+        width: 115
+        height: 273
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afc1b5752812aa290800000000000000
+      internalID: -7878447754436207366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_sheetDance_34
+      rect:
+        serializedVersion: 2
+        x: 2665
+        y: 3714
+        width: 116
+        height: 275
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8448b4d471a5f210800000000000000
+      internalID: 1366175585133937807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_sheetDance_35
+      rect:
+        serializedVersion: 2
+        x: 3267
+        y: 3714
+        width: 116
+        height: 275
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bda745ca62f47ef0800000000000000
+      internalID: -111197550387155527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_sheetDance_36
+      rect:
+        serializedVersion: 2
+        x: 3869
+        y: 3714
+        width: 115
+        height: 277
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fe8fad289bcd3d50800000000000000
+      internalID: 6718750073568595705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_sheetDance_37
+      rect:
+        serializedVersion: 2
+        x: 4471
+        y: 3714
+        width: 115
+        height: 277
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa839034b2ffb61d0800000000000000
+      internalID: -3356308536001218390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_sheetDance_38
+      rect:
+        serializedVersion: 2
+        x: 5075
+        y: 3713
+        width: 113
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f86f7a08cc538010800000000000000
+      internalID: 1189896740795279601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_sheetDance_39
+      rect:
+        serializedVersion: 2
+        x: 5677
+        y: 3713
+        width: 113
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8b70192aef154b60800000000000000
+      internalID: 7729619426023078797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_sheetDance_40
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 3112
+        width: 112
+        height: 277
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1fcc21e287b1fea0800000000000000
+      internalID: -5840685468971380962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_sheetDance_41
+      rect:
+        serializedVersion: 2
+        x: 862
+        y: 3112
+        width: 112
+        height: 277
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61696b2ea56686d30800000000000000
+      internalID: 4424899174428218902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_sheetDance_42
+      rect:
+        serializedVersion: 2
+        x: 1463
+        y: 3112
+        width: 113
+        height: 275
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b271255397cfd340800000000000000
+      internalID: 4890847155950023344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_sheetDance_43
+      rect:
+        serializedVersion: 2
+        x: 2065
+        y: 3112
+        width: 113
+        height: 275
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fdcb02fb7e430830800000000000000
+      internalID: 4036155985302900213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_sheetDance_44
+      rect:
+        serializedVersion: 2
+        x: 2667
+        y: 3112
+        width: 113
+        height: 274
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a591cc0661966e680800000000000000
+      internalID: -8726171683149571750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_sheetDance_45
+      rect:
+        serializedVersion: 2
+        x: 3269
+        y: 3112
+        width: 113
+        height: 274
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8179ada7b30848a0800000000000000
+      internalID: -6320797989587029618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_sheetDance_46
+      rect:
+        serializedVersion: 2
+        x: 3871
+        y: 3112
+        width: 113
+        height: 272
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ee425be430776010800000000000000
+      internalID: 1182036799796694755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_sheetDance_47
+      rect:
+        serializedVersion: 2
+        x: 4473
+        y: 3112
+        width: 113
+        height: 272
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 244691359d90b7350800000000000000
+      internalID: 6015412556290155586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_sheetDance_48
+      rect:
+        serializedVersion: 2
+        x: 5075
+        y: 3111
+        width: 113
+        height: 271
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a328a5fb5b51f7570800000000000000
+      internalID: 8466509694823465530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_sheetDance_49
+      rect:
+        serializedVersion: 2
+        x: 5677
+        y: 3111
+        width: 113
+        height: 271
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dad5cd715b3681bf0800000000000000
+      internalID: -353422941308035667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_sheetDance_50
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 2510
+        width: 115
+        height: 268
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a91da38dd7bcc090800000000000000
+      internalID: -8012827474974139994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_sheetDance_51
+      rect:
+        serializedVersion: 2
+        x: 859
+        y: 2510
+        width: 115
+        height: 268
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40120edc06f4c8da0800000000000000
+      internalID: -5941286531219054332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_sheetDance_52
+      rect:
+        serializedVersion: 2
+        x: 1458
+        y: 2510
+        width: 117
+        height: 266
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2013c33d74707d450800000000000000
+      internalID: 6113363024246747394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_sheetDance_53
+      rect:
+        serializedVersion: 2
+        x: 2060
+        y: 2510
+        width: 117
+        height: 266
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a66637506a2855d30800000000000000
+      internalID: 4419582258901640810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_sheetDance_54
+      rect:
+        serializedVersion: 2
+        x: 2661
+        y: 2510
+        width: 118
+        height: 264
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bbb1740423258500800000000000000
+      internalID: 397762779692514227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_sheetDance_55
+      rect:
+        serializedVersion: 2
+        x: 3263
+        y: 2510
+        width: 118
+        height: 264
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe6c3bdefd9a3c070800000000000000
+      internalID: 8125524931937289967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_sheetDance_56
+      rect:
+        serializedVersion: 2
+        x: 3864
+        y: 2510
+        width: 119
+        height: 263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 387a80ae7c041ef00800000000000000
+      internalID: 1144267007697921923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_sheetDance_57
+      rect:
+        serializedVersion: 2
+        x: 4466
+        y: 2510
+        width: 119
+        height: 263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f865b18b046d04a0800000000000000
+      internalID: -6625529476208563979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_sheetDance_58
+      rect:
+        serializedVersion: 2
+        x: 5068
+        y: 2510
+        width: 118
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c69adf85c574a5f80800000000000000
+      internalID: -8117096916426315412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_sheetDance_59
+      rect:
+        serializedVersion: 2
+        x: 5670
+        y: 2510
+        width: 118
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13d7ba0b504cb1e50800000000000000
+      internalID: 6781229192654322993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_sheetDance_60
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 1909
+        width: 117
+        height: 261
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06e8620beb57a6890800000000000000
+      internalID: -7464023970553622944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_sheetDance_61
+      rect:
+        serializedVersion: 2
+        x: 855
+        y: 1909
+        width: 117
+        height: 261
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d79a0a6f38065100800000000000000
+      internalID: 96273510490085328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_sheetDance_62
+      rect:
+        serializedVersion: 2
+        x: 1458
+        y: 1909
+        width: 120
+        height: 261
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47ea0ee6cf65569f0800000000000000
+      internalID: -475878543425753484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_sheetDance_63
+      rect:
+        serializedVersion: 2
+        x: 2060
+        y: 1909
+        width: 120
+        height: 261
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d81ef3304c4fd62f0800000000000000
+      internalID: -977856421364244083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_sheetDance_64
+      rect:
+        serializedVersion: 2
+        x: 2663
+        y: 1911
+        width: 124
+        height: 260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72cc758bb7aad3bc0800000000000000
+      internalID: -3801695062080369625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_sheetDance_65
+      rect:
+        serializedVersion: 2
+        x: 3265
+        y: 1911
+        width: 124
+        height: 260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c3e80a5cd1a853b0800000000000000
+      internalID: -5523486975194504251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_sheetDance_66
+      rect:
+        serializedVersion: 2
+        x: 3868
+        y: 1912
+        width: 125
+        height: 260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4586b86813035da80800000000000000
+      internalID: -8442788937167312812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_sheetDance_67
+      rect:
+        serializedVersion: 2
+        x: 4470
+        y: 1912
+        width: 125
+        height: 260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76e799ef3094ea6b0800000000000000
+      internalID: -5283205031353811353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_sheetDance_68
+      rect:
+        serializedVersion: 2
+        x: 5073
+        y: 1912
+        width: 125
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6b2d159070517700800000000000000
+      internalID: 536298275102075758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_sheetDance_69
+      rect:
+        serializedVersion: 2
+        x: 5675
+        y: 1912
+        width: 125
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38d00d2badc4a8ba0800000000000000
+      internalID: -6085967444251243133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_sheetDance_70
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 1310
+        width: 125
+        height: 264
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c693950abcbea19e0800000000000000
+      internalID: -1649747053676775060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_sheetDance_71
+      rect:
+        serializedVersion: 2
+        x: 859
+        y: 1310
+        width: 125
+        height: 264
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f05e31dea1d42470800000000000000
+      internalID: 8369044556326260977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_sheetDance_72
+      rect:
+        serializedVersion: 2
+        x: 1460
+        y: 1309
+        width: 124
+        height: 267
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c704e3c5ade65cbd0800000000000000
+      internalID: -2610558524861824900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_sheetDance_73
+      rect:
+        serializedVersion: 2
+        x: 2062
+        y: 1309
+        width: 124
+        height: 267
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03e2af137c9950c20800000000000000
+      internalID: 3172110593368403504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_sheetDance_74
+      rect:
+        serializedVersion: 2
+        x: 2664
+        y: 1309
+        width: 121
+        height: 268
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56b6bb94f5130e8d0800000000000000
+      internalID: -2819199081405256859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_sheetDance_75
+      rect:
+        serializedVersion: 2
+        x: 3266
+        y: 1309
+        width: 121
+        height: 268
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9aa958cff50a20d20800000000000000
+      internalID: 3243331015779130025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_sheetDance_76
+      rect:
+        serializedVersion: 2
+        x: 3868
+        y: 1309
+        width: 119
+        height: 268
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddc2ee494a49557e0800000000000000
+      internalID: -1777351043333608227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_sheetDance_77
+      rect:
+        serializedVersion: 2
+        x: 4470
+        y: 1309
+        width: 119
+        height: 268
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ebdeb06faa542530800000000000000
+      internalID: 3829285292460661730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_sheetDance_78
+      rect:
+        serializedVersion: 2
+        x: 5072
+        y: 1309
+        width: 119
+        height: 268
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc46de92b39dac230800000000000000
+      internalID: 3659976495321670859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_sheetDance_79
+      rect:
+        serializedVersion: 2
+        x: 5674
+        y: 1309
+        width: 119
+        height: 268
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93853c11fdd15fce0800000000000000
+      internalID: -1372157667551520711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_sheetDance_80
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 707
+        width: 119
+        height: 267
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b5e4d399f822b8c0800000000000000
+      internalID: -3985077667877296711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_sheetDance_81
+      rect:
+        serializedVersion: 2
+        x: 859
+        y: 707
+        width: 119
+        height: 267
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 080f2be157cd5c880800000000000000
+      internalID: -8591218318555025280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_sheetDance_82
+      rect:
+        serializedVersion: 2
+        x: 1461
+        y: 707
+        width: 117
+        height: 266
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74ba7218398735500800000000000000
+      internalID: 383782968179010375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_sheetDance_83
+      rect:
+        serializedVersion: 2
+        x: 2063
+        y: 707
+        width: 117
+        height: 266
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc675a382684fb4d0800000000000000
+      internalID: -3116692829164439860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_sheetDance_84
+      rect:
+        serializedVersion: 2
+        x: 2665
+        y: 705
+        width: 119
+        height: 266
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f66630df61f2d5ca0800000000000000
+      internalID: -6026608950571211153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_sheetDance_85
+      rect:
+        serializedVersion: 2
+        x: 3267
+        y: 705
+        width: 119
+        height: 266
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7d9389901e383a50800000000000000
+      internalID: 6501014303125249406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_sheetDance_86
+      rect:
+        serializedVersion: 2
+        x: 3869
+        y: 704
+        width: 121
+        height: 266
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbb51ad8bc9eb59c0800000000000000
+      internalID: -3937296388741571649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_sheetDance_87
+      rect:
+        serializedVersion: 2
+        x: 4471
+        y: 704
+        width: 121
+        height: 266
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dafd607727db1fed0800000000000000
+      internalID: -2381914428581421139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_sheetDance_88
+      rect:
+        serializedVersion: 2
+        x: 5073
+        y: 704
+        width: 123
+        height: 265
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adebb9cd7694c9d00800000000000000
+      internalID: 980739529291579098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_sheetDance_89
+      rect:
+        serializedVersion: 2
+        x: 5675
+        y: 704
+        width: 123
+        height: 265
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65d9c690a03f4e250800000000000000
+      internalID: 5973166230233455958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_sheetDance_90
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 102
+        width: 125
+        height: 265
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44eba3fe71a9afb30800000000000000
+      internalID: 4321936220003941956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_sheetDance_91
+      rect:
+        serializedVersion: 2
+        x: 859
+        y: 102
+        width: 125
+        height: 265
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ba2d968a37116b20800000000000000
+      internalID: 3125805156505823920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_sheetDance_92
+      rect:
+        serializedVersion: 2
+        x: 1461
+        y: 102
+        width: 126
+        height: 265
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f99361319c7343430800000000000000
+      internalID: 3761692925509384607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_sheetDance_93
+      rect:
+        serializedVersion: 2
+        x: 2063
+        y: 102
+        width: 126
+        height: 265
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3ed88428d7fc6020800000000000000
+      internalID: 2336514814396390974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_sheetDance_94
+      rect:
+        serializedVersion: 2
+        x: 2665
+        y: 102
+        width: 127
+        height: 264
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e31afa56362240670800000000000000
+      internalID: 8503959806685454654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_sheetDance_95
+      rect:
+        serializedVersion: 2
+        x: 3267
+        y: 102
+        width: 127
+        height: 264
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c72d80bcba9b00c0800000000000000
+      internalID: -4608419658477000764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_sheetDance_96
+      rect:
+        serializedVersion: 2
+        x: 3868
+        y: 102
+        width: 127
+        height: 264
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31d9ea341f8871fb0800000000000000
+      internalID: -4677119118196957933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_sheetDance_97
+      rect:
+        serializedVersion: 2
+        x: 4470
+        y: 102
+        width: 127
+        height: 264
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 083576d14b12a2950800000000000000
+      internalID: 6424984875868574592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_sheetDance_98
+      rect:
+        serializedVersion: 2
+        x: 5071
+        y: 102
+        width: 127
+        height: 264
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92c45d54162a0fa60800000000000000
+      internalID: 7705837501098052649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_sheetDance_99
+      rect:
+        serializedVersion: 2
+        x: 5673
+        y: 102
+        width: 127
+        height: 264
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2983830d99db861a0800000000000000
+      internalID: -6815989567704254318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      sprite_sheetDance_0: -3845526421167853053
+      sprite_sheetDance_1: 2249626410489707183
+      sprite_sheetDance_10: -7391827886283006980
+      sprite_sheetDance_11: -3666157673393504591
+      sprite_sheetDance_12: 6710373363091177922
+      sprite_sheetDance_13: -6113941638788187671
+      sprite_sheetDance_14: 8787825820677985134
+      sprite_sheetDance_15: -4204556871127742889
+      sprite_sheetDance_16: -1025142695966946942
+      sprite_sheetDance_17: 3775427757771559000
+      sprite_sheetDance_18: 1277465550173841108
+      sprite_sheetDance_19: 8393303710515672167
+      sprite_sheetDance_2: -4475863958900181438
+      sprite_sheetDance_20: 9032838230081511804
+      sprite_sheetDance_21: -1670634479920800325
+      sprite_sheetDance_22: -8904131702065199842
+      sprite_sheetDance_23: -5396052509385144012
+      sprite_sheetDance_24: 8490034788919845614
+      sprite_sheetDance_25: -8670917529129935625
+      sprite_sheetDance_26: 1723755225616675587
+      sprite_sheetDance_27: -5814158680822526908
+      sprite_sheetDance_28: -1849982609986634012
+      sprite_sheetDance_29: 3665425770200233004
+      sprite_sheetDance_3: -6077950529466920587
+      sprite_sheetDance_30: 2204799903440262560
+      sprite_sheetDance_31: 5471669840336200897
+      sprite_sheetDance_32: 4037207485762658821
+      sprite_sheetDance_33: -7878447754436207366
+      sprite_sheetDance_34: 1366175585133937807
+      sprite_sheetDance_35: -111197550387155527
+      sprite_sheetDance_36: 6718750073568595705
+      sprite_sheetDance_37: -3356308536001218390
+      sprite_sheetDance_38: 1189896740795279601
+      sprite_sheetDance_39: 7729619426023078797
+      sprite_sheetDance_4: -4828984400413331848
+      sprite_sheetDance_40: -5840685468971380962
+      sprite_sheetDance_41: 4424899174428218902
+      sprite_sheetDance_42: 4890847155950023344
+      sprite_sheetDance_43: 4036155985302900213
+      sprite_sheetDance_44: -8726171683149571750
+      sprite_sheetDance_45: -6320797989587029618
+      sprite_sheetDance_46: 1182036799796694755
+      sprite_sheetDance_47: 6015412556290155586
+      sprite_sheetDance_48: 8466509694823465530
+      sprite_sheetDance_49: -353422941308035667
+      sprite_sheetDance_5: -8081177504449190892
+      sprite_sheetDance_50: -8012827474974139994
+      sprite_sheetDance_51: -5941286531219054332
+      sprite_sheetDance_52: 6113363024246747394
+      sprite_sheetDance_53: 4419582258901640810
+      sprite_sheetDance_54: 397762779692514227
+      sprite_sheetDance_55: 8125524931937289967
+      sprite_sheetDance_56: 1144267007697921923
+      sprite_sheetDance_57: -6625529476208563979
+      sprite_sheetDance_58: -8117096916426315412
+      sprite_sheetDance_59: 6781229192654322993
+      sprite_sheetDance_6: -7375383286807313
+      sprite_sheetDance_60: -7464023970553622944
+      sprite_sheetDance_61: 96273510490085328
+      sprite_sheetDance_62: -475878543425753484
+      sprite_sheetDance_63: -977856421364244083
+      sprite_sheetDance_64: -3801695062080369625
+      sprite_sheetDance_65: -5523486975194504251
+      sprite_sheetDance_66: -8442788937167312812
+      sprite_sheetDance_67: -5283205031353811353
+      sprite_sheetDance_68: 536298275102075758
+      sprite_sheetDance_69: -6085967444251243133
+      sprite_sheetDance_7: -2690315829568186669
+      sprite_sheetDance_70: -1649747053676775060
+      sprite_sheetDance_71: 8369044556326260977
+      sprite_sheetDance_72: -2610558524861824900
+      sprite_sheetDance_73: 3172110593368403504
+      sprite_sheetDance_74: -2819199081405256859
+      sprite_sheetDance_75: 3243331015779130025
+      sprite_sheetDance_76: -1777351043333608227
+      sprite_sheetDance_77: 3829285292460661730
+      sprite_sheetDance_78: 3659976495321670859
+      sprite_sheetDance_79: -1372157667551520711
+      sprite_sheetDance_8: -8250807308463502991
+      sprite_sheetDance_80: -3985077667877296711
+      sprite_sheetDance_81: -8591218318555025280
+      sprite_sheetDance_82: 383782968179010375
+      sprite_sheetDance_83: -3116692829164439860
+      sprite_sheetDance_84: -6026608950571211153
+      sprite_sheetDance_85: 6501014303125249406
+      sprite_sheetDance_86: -3937296388741571649
+      sprite_sheetDance_87: -2381914428581421139
+      sprite_sheetDance_88: 980739529291579098
+      sprite_sheetDance_89: 5973166230233455958
+      sprite_sheetDance_9: -7595915216921261077
+      sprite_sheetDance_90: 4321936220003941956
+      sprite_sheetDance_91: 3125805156505823920
+      sprite_sheetDance_92: 3761692925509384607
+      sprite_sheetDance_93: 2336514814396390974
+      sprite_sheetDance_94: 8503959806685454654
+      sprite_sheetDance_95: -4608419658477000764
+      sprite_sheetDance_96: -4677119118196957933
+      sprite_sheetDance_97: 6424984875868574592
+      sprite_sheetDance_98: 7705837501098052649
+      sprite_sheetDance_99: -6815989567704254318
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
